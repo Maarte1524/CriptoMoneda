@@ -1,0 +1,1 @@
+"""CriptoMoneda trading bot package."""
